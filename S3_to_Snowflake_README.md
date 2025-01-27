@@ -2,7 +2,7 @@
 
 # Snowflake S3 Integration and Data Loading
 
-This file contains SQL scripts for integrating Snowflake with Amazon S3, creating an external stage, and loading data from S3 into a Snowflake table. The script supports two methods of copying data: using a pre-defined Snowflake stage or directly referencing the S3 bucket URL.
+This file contains SQL scripts for integrating Snowflake with Amazon S3, creating an external stage, and loading data from S3 into a Snowflake table. 
 
 ---
 
